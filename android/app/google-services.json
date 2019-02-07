@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "447233997151",
+    "firebase_url": "https://my-car-recognizer.firebaseio.com",
+    "project_id": "my-car-recognizer",
+    "storage_bucket": "my-car-recognizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447233997151:android:9ad0411f49649f82",
+        "android_client_info": {
+          "package_name": "cloud.llabs.flutter.mlkit.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447233997151-a5il2ro36b7ibk8c97kdm2eit4q76g40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebMqEgWqmAu8GdzY7Nr-EW_2tf49z240"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447233997151:android:3de6e198278b597b",
+        "android_client_info": {
+          "package_name": "com.bossesdomain.cameratest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447233997151-a5il2ro36b7ibk8c97kdm2eit4q76g40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebMqEgWqmAu8GdzY7Nr-EW_2tf49z240"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447233997151:android:b64285a6782ee8cf",
+        "android_client_info": {
+          "package_name": "com.bossesdomain.fluttercar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447233997151-a5il2ro36b7ibk8c97kdm2eit4q76g40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebMqEgWqmAu8GdzY7Nr-EW_2tf49z240"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
